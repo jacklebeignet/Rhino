@@ -1,1 +1,4 @@
-{}
+{
+  "threads": 5,
+  "webhook": "https://discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+}
